@@ -1,4 +1,3 @@
-# Archivos generados por Android Studio
 *.iml
 .gradle
 /local.properties
@@ -8,37 +7,9 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
-/.idea/deploymentTargetSelector.xml
-/.idea/compiler.xml
-/.idea/gradle.xml
-/.idea/kotlinc.xml
-/.idea/misc.xml
-/.idea/vcs.xml
-
-# Archivos del sistema
 .DS_Store
-
-# Carpetas de compilación
 /build
-/app/build
 /captures
 .externalNativeBuild
 .cxx
-
-# Archivos de propiedades locales
 local.properties
-
-# Archivos de configuración de Gradle
-.gradle/
-gradle-app.setting
-
-# Archivos de configuración de Firebase (contienen información sensible)
-# Descomenta la siguiente línea si no quieres subir tu archivo google-services.json
-# /app/google-services.json
-
-# Archivos de log
-*.log
-
-# Archivos temporales
-*.tmp
-*.temp
